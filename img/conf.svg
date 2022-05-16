@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202" height="202" viewBox="0 0 202 202">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_11" data-name="Elipse 11" cx="101" cy="101" r="101" fill="#505050" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_3" data-name="Grupo de máscara 3" clip-path="url(#clip-path)">
+    <path id="camera-solid" d="M54.985,9.625h34.7A13.53,13.53,0,0,1,102.538,18.9l2.939,8.81h21.107a18.1,18.1,0,0,1,18.083,18.083v72.333a18.1,18.1,0,0,1-18.083,18.083H18.083A18.091,18.091,0,0,1,0,118.125V45.792A18.091,18.091,0,0,1,18.083,27.708H39.19l2.939-8.81A13.53,13.53,0,0,1,54.985,9.625Zm17.349,99.458a27.125,27.125,0,1,0,0-54.25,27.125,27.125,0,1,0,0,54.25Z" transform="translate(28.667 28.083)" fill="#6677a4"/>
+  </g>
+</svg>
